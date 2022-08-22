@@ -43,3 +43,6 @@ bottom which acts as a timer.
  else 
  loop(); 
 10. End 
+![c1](https://user-images.githubusercontent.com/104635748/185980818-b1dd0ed4-0b1e-46c7-9fa1-faa1ad77c74a.png)
+![c2](https://user-images.githubusercontent.com/104635748/185980856-788f3eb1-9968-4765-97f6-6d4b13c37efb.png)
+
